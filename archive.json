@@ -1,18 +1,19 @@
 {
   "meta": {
     "title": "一人公司日报",
-    "generated": "2026-11-27T16:24:41+08:00",
+    "generated": "2026-11-27T16:48:13+08:00",
     "windowDays": 7,
-    "note": "2026-11-27 二次更新：撤掉偏 AI 编程工具的条目，换成一人公司案例、定价与经营复盘；历史内容按最近 7 天公开信息整理。",
+    "note": "2026-11-27 四次更新：在 33 条基础上补入 4 条中文一手内容——一人公司冷水数据、微信支付新协议、两人拉伸 App 流水、欧盟包裹税成本；Google Play 条目补上申报与公开时间表。",
     "sourcePolicy": "收入、用户数与增长数据均为来源方自述，未经独立审计。"
   },
   "summaries": {
-    "2026-11-27": "平台与安全各有一条硬新闻：Google Play 将向用户公开个人开发者的电话与地址，1Password 因员工 GitHub 账号被入侵而泄露部分账户信息。经营侧，黑五清单适合按需补工具；另外三篇分别讲免费层的样本量、邮件工具的免费额度，以及输入隐私的取舍。",
-    "2026-11-26": "这天三条样本都在讲“先有需求，再谈产品”：Alarmy 一个人起步做到年入 3400 万美元，BoltAI 从周末小工具长到月入 1.5 万美元，BatchSet 拆掉注册墙才拿到第一笔 19.99 美元。定价侧，MyFeedIn 和德国一人 IT 顾问都公开了真实价格与提价结果。共同点不是 AI，而是判断力和分发。",
-    "2026-11-25": "AI 编码代理的工具链继续补全：手机远程指挥、自动验收、会话调度。另一条讨论关心 AI 是否正在改写独立开发者的收入。",
-    "2026-11-24": "两条一人公司样本：三个月独立重建 CMS 的技术创始人，和零广告 3 天做到 487 美元 MRR 的小工具。前者讲能力杠杆，后者讲分发顺序。",
-    "2026-11-23": "36氪用一组真实数据拆开 AI 游戏热：有人 3 天卖 10 万份，也有人上线一个月收入不足 10 美元。工具侧，开源本地 CRM 值得一人公司看看。",
-    "2026-11-22": "两条信号：Pieter Levels 把 X 上的 AI 回复做成屏蔽工具；金融科技公司开始公开押注“单人创业者”群体。"
+    "2026-11-27": "政策侧三条：Google Play 要求开发者在 2027 年 2 月前申报交易者身份，3 月起全球公开电话与地址；四川把个体户“个转企”与食品经营许可变更并成“一件事”，12 月 31 日全省推行；欧盟取消 150 欧免税并加收 3 欧/件，跨境单件成本多出约 5 欧。经营侧，1Password 的入侵提醒一人公司：一个 GitHub 账号就可能牵出全部家当；另外三条分别讲免费层样本量、邮件工具额度和输入隐私。",
+    "2026-11-26": "四条一人公司样本：Alarmy 一个人把闹钟做到年入 3400 万美元，BoltAI 从周末工具长到月入 1.5 万美元，BatchSet 拆掉注册墙才拿到第一笔 19.99 美元，21 岁学生做的 Makelead 已到 3k MRR。定价侧，MyFeedIn 和德国一人 IT 顾问都公开了真实价格。共同点不是 AI，而是先找到愿意付钱的人。",
+    "2026-11-25": "这天两条政策最硬：12 月 1 日起，公司找自然人做设计、咨询要代扣增值税；9 部门“春雨润苗”明确平台不得把涉税义务转嫁给小微商家。经营侧有四个冷水样本：98% 流量是机器人、19 年 Reddit 账号被封、退款规则该写在价格旁，以及 BlitzReels 靠老客户升级把 MRR 从 €911 拉到 €1,865；再加一个两人的拉伸 App，月流水 70–80 万美元。",
+    "2026-11-24": "五条一人公司样本。最值得先看的是这份冷水数据：全国一人公司超 1600 万家，30.8% 零营收，仅 20% 跑通闭环，65% 每月 AI 支出超 500 元。另有“一个人做出独角兽”的边界、零广告 3 天做到 487 美元 MRR 的分发过程、agency 最好月收 45.9 万美元却 6 个月关门的复盘；政策侧提醒微信支付 12 月 24 日新协议，个人码收经营款要补证件。",
+    "2026-11-23": "这天的样本都在拆“增长”：831 个注册只转出 58 个付费，ChatGPT 带来的用户是 Google 的 4 倍，3 周做 9 个 B2B 工具仍是 0 收入。另一条是 AI 游戏的真实分化：有人 3 天卖 10 万份，也有人月入不足 10 美元。",
+    "2026-11-22": "两条一人公司样本：一个人做产品做到 100+ 付费、月入约 3 千欧，仍保留清洁工工作；金融科技公司开始公开押注“单人创业者”群体。两条实操：试用期从 7 天砍到 3 天，以及 70% 终身折扣带来的 15 个流失用户。",
+    "2026-11-21": "两条英文一手复盘：一个人做内容站 7 周，真实流量只有每周 55 次，卡在收录；一个人卖 Mac 应用 3 周，237 次安装转出 83 位付费。共同点：先看真实转化，再谈增长。"
   },
   "items": [
     {
@@ -23,34 +24,47 @@
       "source": "Google Play 帮助中心",
       "author": "Google",
       "category": "政策",
-      "summary": "Google Play 要求个人开发者向用户展示电话与地址，账号信息不再只对平台可见。",
-      "why": "影响所有个人上架的 Android 应用，隐私与合规成本要重算。",
+      "summary": "Google Play 要求活跃开发者在 2027 年 2 月 1 日前申报是否为“交易者”；被认定为交易者的个人账号，2027 年 3 月 1 日起要在全球页面公开电话和实体地址。Google 也不接受 P.O. Box 作为付款资料地址。",
+      "why": "个人开发者要么公开家庭住址，要么租商业地址；Apple 目前只在欧洲展示 trader 信息。",
       "region": "en",
       "featured": true
     },
     {
+      "id": "2026-11-27-sichuan-gezhuanqi",
       "date": "2026-11-27",
-      "title": "1Password 确认内部系统被入侵：入口是一名员工的 GitHub 账号",
-      "url": "https://sspai.com/post/119632",
-      "source": "少数派 / 1Password",
-      "author": "少数派编辑部",
+      "title": "四川试点个体户“个转企”：12 月 31 日起全省推行",
+      "url": "https://www.pengxi.gov.cn/gongkai/show/3ed5faeff1ac9c6af12b97bf7d730dc1.html",
+      "source": "四川省市场监督管理局",
+      "author": "四川省市场监管局",
       "category": "政策",
-      "summary": "攻击者通过一名员工的企业 GitHub 账号入侵 1Password 内部系统，窃取部分用户姓名、邮箱、账户 ID、公钥与恢复令牌，以及私有仓库源码和 CI/CD 权限；密码库与 Secret Key 未受影响。官方称无需改密码，但要警惕冒充 1Password 的钓鱼。",
-      "why": "一人公司的 GitHub、CI/CD 和密码库往往就是全部家当，先检查账号权限与恢复流程。",
       "region": "zh",
-      "id": "2026-11-27-1password-incident"
+      "summary": "四川把“个体工商户转型为企业”与食品经营许可变更并联办理，11 月 30 日至 12 月 30 日在绵阳、广元试点，12 月 31 日起全省推行；转型登记与许可证变更可一次申请，全流程控制在 7 个工作日内。",
+      "why": "一人公司做大后要不要从个体户转成公司，这类“一件事”改革会直接影响办理成本。"
+    },
+    {
+      "id": "2026-11-27-eu-package-tax",
+      "date": "2026-11-27",
+      "title": "欧盟取消 150 欧免税再加 3 欧/件：跨境小卖家单件成本多出约 5 欧",
+      "url": "https://www.jiemian.com/article/15383107.html",
+      "source": "界面新闻",
+      "author": "程璐CL",
+      "category": "政策",
+      "summary": "2026 年黑五是欧盟取消 150 欧元以下包裹增值税豁免、并对每件加征 3 欧元固定税费后的首个大促；若叠加 11 月起的 2 欧元清关处理费，单件成本升至约 5 欧元。有卖家欧洲订单占比被砍半，注册一个经营主体要一万多元。",
+      "why": "做欧洲市场的独立站和平台卖家，要把税费、主体注册费和广告 CPI 放在一张表里重算。",
+      "region": "zh",
+      "featured": false
     },
     {
       "date": "2026-11-27",
-      "title": "黑五值得买：App 与服务优惠清单",
-      "url": "https://sspai.com/post/119601",
-      "source": "少数派",
+      "title": "一个人的公司，一个 GitHub 账号就能被端掉",
+      "url": "https://sspai.com/post/119632",
+      "source": "少数派 / 1Password",
       "author": "少数派编辑部",
-      "category": "工具",
-      "summary": "少数派整理黑五 App 与服务优惠，覆盖效率、AI 与开发工具，适合补齐工具栈。",
-      "why": "一年里续费或换工具最划算的窗口，但需甄别伪折扣。",
+      "category": "经验",
+      "summary": "攻击者通过一名员工的企业 GitHub 账号进入 1Password 内部系统，拿走部分用户姓名、邮箱、账户 ID、公钥、恢复令牌，以及私有仓库源码和 CI/CD 权限；密码库与 Secret Key 未受影响。官方称无需改密码，但冒充 1Password 的钓鱼风险上升。",
+      "why": "一人公司的 GitHub、CI/CD 和密码库往往就是全部家当，先收紧账号权限和恢复流程。",
       "region": "zh",
-      "id": "2026-11-27-sspai-blackfriday"
+      "id": "2026-11-27-1password-incident"
     },
     {
       "date": "2026-11-27",
@@ -66,18 +80,6 @@
     },
     {
       "date": "2026-11-27",
-      "title": "一人建站选邮件工具：三个免费额度到底差在哪",
-      "url": "https://dev.to/aistackguide/three-free-email-tiers-three-different-bets-what-systemeio-mailerlite-and-kit-actually-give-a-ij4",
-      "source": "Dev.to / AI Stack Guide",
-      "author": "AI Stack Guide",
-      "category": "工具",
-      "summary": "对比 systeme.io、MailerLite 与 Kit 在 2026 年 11 月的免费方案：systeme.io 送整套漏斗和 1 条自动化，MailerLite 编辑器最好但只免 250 个订阅，Kit 名单额度最大却把关键自动化留到付费。",
-      "why": "一人公司起步时先按免费额度和第一档价格选型；文章含联盟链接，别只看推荐。",
-      "region": "en",
-      "id": "2026-11-27-email-free-tiers"
-    },
-    {
-      "date": "2026-11-27",
       "title": "小工具该不该记住你输入的内容？",
       "url": "https://dev.to/ranchjiao0607/should-a-tiny-web-tool-remember-what-you-typed-5h7e",
       "source": "Dev.to",
@@ -87,6 +89,18 @@
       "why": "一人做小工具，隐私承诺往往藏在这种默认行为里。",
       "region": "en",
       "id": "2026-11-27-tiny-tool-privacy"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "一人建站选邮件工具：三个免费额度到底差在哪",
+      "url": "https://dev.to/aistackguide/three-free-email-tiers-three-different-bets-what-systemeio-mailerlite-and-kit-actually-give-a-ij4",
+      "source": "Dev.to / AI Stack Guide",
+      "author": "AI Stack Guide",
+      "category": "工具",
+      "summary": "对比 systeme.io、MailerLite 与 Kit 在 2026 年 11 月的免费方案：systeme.io 送整套漏斗和 1 条自动化，MailerLite 编辑器最好但只免 250 个订阅，Kit 名单额度最大却把关键自动化留到付费。",
+      "why": "一人公司起步时先按免费额度和第一档价格选型；文章含联盟链接，别只看推荐。",
+      "region": "en",
+      "id": "2026-11-27-email-free-tiers"
     },
     {
       "date": "2026-11-26",
@@ -126,6 +140,18 @@
       "id": "2026-11-26-batchset-signup-wall"
     },
     {
+      "id": "2026-11-26-makelead-3k",
+      "date": "2026-11-26",
+      "title": "21 岁学生做 B2B 线索工具，3 个月做到 3k MRR",
+      "url": "https://www.ezindie.com/weekly/issue-167",
+      "source": "独立开发变现周刊 #167",
+      "author": "@SlakzieArt",
+      "category": "案例",
+      "region": "en",
+      "summary": "21 岁学生做 Makelead，把 LinkedIn 与 X 的潜客搜索、邀请、冷邮件、跟进和 AI 预约串成一条 B2B 获客流程，MRR 突破 3,000 美元。",
+      "why": "年轻一人公司不一定要做通用工具，垂直 B2B 工作流更容易收到钱。"
+    },
+    {
       "date": "2026-11-26",
       "title": "把 SaaS 定价从 €10 终身改成 €19/月，他公开了完整价格史",
       "url": "https://www.ezindie.com/weekly/issue-167",
@@ -162,28 +188,90 @@
       "region": "en"
     },
     {
-      "id": "2026-11-25-whipdesk",
+      "id": "2026-11-25-vat-withholding",
       "date": "2026-11-25",
-      "title": "WhipDesk：在手机上遥控 AI 编码代理",
-      "url": "https://www.producthunt.com/products/whipdesk",
-      "source": "Product Hunt",
-      "author": "WhipDesk",
-      "category": "工具",
-      "summary": "用手机远程指挥 Claude Code、Codex 等编码代理，随时查看进度并继续任务。",
-      "why": "把通勤、排队这些碎片时间接回开发流程。",
-      "region": "en"
+      "title": "12 月 1 日首次扣缴：公司找自然人做设计、咨询，要代扣增值税",
+      "url": "https://www.cnstock.com/commonDetail/833350/",
+      "source": "上海证券报",
+      "author": "李苑",
+      "category": "政策",
+      "region": "zh",
+      "featured": true,
+      "summary": "11 月 1 日起，自然人向境内单位提供研发、软件、设计、咨询、影视制作、文化、教育七类服务，由付款单位代扣代缴增值税及附加，12 月 1 日首次申报。个体户不适用这套代扣机制，仍按现行规定自行申报。",
+      "why": "一人公司外包设计或开发给个人时，合同里的含税价和付款流程要提前改。"
     },
     {
-      "id": "2026-11-25-lightscale",
+      "id": "2026-11-25-98-percent-bots",
       "date": "2026-11-25",
-      "title": "Lightscale：免费的业务软件 AI 构建器",
-      "url": "https://lightscale.ai/",
-      "source": "Lightscale",
-      "author": "Lightscale",
-      "category": "工具",
-      "summary": "面向业务软件的免费 AI 构建器，强调服务端权限校验与数据迁移，托管在瑞士。",
-      "why": "一个人做内部工具或小系统时，多一个低成本选项。",
-      "region": "en"
+      "title": "上线一个月，98% 的访问是机器人：22,351 次请求只有 483 个真人",
+      "url": "https://www.indiehackers.com/post/a-month-after-launch-98-of-my-traffic-is-still-bots-uxexY1nxeJHNTjEaTH66",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "作者上线一个月记录到 22,351 次请求，其中真人只有 483 个，占 2.2%；真人访问周线从 46 涨到 162，但只换来 2 个注册。把 bot 剔掉后，增长曲线会诚实很多。",
+      "why": "一人公司没有数据分析团队，先学会把爬虫和真人分开，否则会被假流量骗。"
+    },
+    {
+      "id": "2026-11-25-blitzreels-mrr",
+      "date": "2026-11-25",
+      "title": "MRR 从 €911 到 €1,865：最大单日增长来自老客户升级",
+      "url": "https://www.ezindie.com/weekly/issue-167",
+      "source": "独立开发变现周刊 #167",
+      "author": "Virgile Rietsch",
+      "category": "案例",
+      "region": "en",
+      "summary": "一个人的短视频剪辑工具 BlitzReels，MRR 从一个月前的 €911 涨到第 7 天的 €1,865，完成 €10,000 目标的 18.7%；单日最大增长来自一位老客户升级全年 Agency。创始人接下来要逐一联系 21 名即将到期的试用用户。",
+      "why": "存量客户的升级和续费，往往比新客获客更快带来 MRR。"
+    },
+    {
+      "id": "2026-11-25-bend-stretch-app",
+      "date": "2026-11-25",
+      "title": "两个人的拉伸 App：月流水 70–80 万美元，CPI 从 $2.38 降到 $1.44",
+      "url": "https://www.baijing.cn/article/56125",
+      "source": "白鲸出海",
+      "author": "裴政开",
+      "category": "案例",
+      "summary": "Bend 用 2 人核心团队切入健身里的拉伸场景，8 月流水破 100 万美元，目前稳定在 70–80 万美元/月；从买断转订阅后 CPI 从 2.38 美元降到 1.44 美元，同期安装量升到 7500 次。36% 的评论在提打卡、提醒和坚持，留存更多来自习惯设计而不是功能堆叠。",
+      "why": "极小团队做订阅 + 投放的一整套数字，可直接对照自己的获客成本与留存设计。",
+      "region": "zh",
+      "featured": false
+    },
+    {
+      "id": "2026-11-25-refund-rules-pricing",
+      "date": "2026-11-25",
+      "title": "把退款规则写在价格旁边，而不是藏在条款里",
+      "url": "https://www.indiehackers.com/post/i-put-the-refund-rules-on-our-pricing-page-not-just-the-prices-LkG6UwsUnFVJaEXJdqHp",
+      "source": "Indie Hackers",
+      "author": "gudmundurk",
+      "category": "经验",
+      "region": "en",
+      "summary": "一个按 credits 计费的 AI 建站工具把退款规则放到定价页：改动前先给估算、没改动免费、模型调用失败自动退回、回滚和发布免费。作者还没给出转化数据，但把“怕白花钱”的顾虑提前回答了。",
+      "why": "一人公司的定价页往往只有价格，没有规则；信任感就丢在这一步。"
+    },
+    {
+      "id": "2026-11-25-reddit-shadowban",
+      "date": "2026-11-25",
+      "title": "19 年的 Reddit 账号，一周内被 shadowban：一人公司的渠道风险",
+      "url": "https://www.indiehackers.com/post/19-years-on-reddit-and-now-shadowbanned-in-a-week-marketing-a-parenting-app-has-been-tricky-SgLtxs0vJR4oM3qoPrVF",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "一个用了 19 年的 Reddit 账号在推广育儿 App 时被全站 shadowban；同期 $30 的 TikTok 投放拿到近 1 万播放、0 下载，Product Hunt 只排到第 127 名。作者承认不确定封禁原因，但渠道集中风险是真的。",
+      "why": "把获客押在一个平台上，账号就是单点故障；一人公司要早点准备第二渠道。"
+    },
+    {
+      "id": "2026-11-25-spring-rain",
+      "date": "2026-11-25",
+      "title": "9 部门“春雨润苗”：平台不得把涉税义务转嫁给小微商家",
+      "url": "https://guangdong.chinatax.gov.cn/gdsw/bmbscfxd_xdwj/2026-11/25/content_3b504cdcd2194af0a4b0f7c20e6caa96.shtml",
+      "source": "国家税务总局等 9 部门",
+      "author": "国家税务总局",
+      "category": "政策",
+      "region": "zh",
+      "summary": "税务总局等 9 部门发布 2026 年“春雨润苗”专项行动，15 项措施覆盖个体户转型、灵活就业参保、平台涉税信息报送与融资；明确严禁平台以转嫁涉税义务、额外收费等方式损害小微经营主体权益。",
+      "why": "一人公司多半在平台上经营，这条直接关系到平台代扣、收费和社保。"
     },
     {
       "id": "2026-11-25-ask-hn-ai-mrr",
@@ -198,16 +286,17 @@
       "region": "en"
     },
     {
-      "id": "2026-11-25-avva",
-      "date": "2026-11-25",
-      "title": "Avva：把你的专业经验做成 AI 可调用的 MCP",
-      "url": "https://avva.chat/",
-      "source": "Hacker News / Avva",
-      "author": "Avva",
-      "category": "工具",
-      "summary": "把你的专业经验与过往决策整理成 MCP，让别人的 AI 代理按你的方式咨询。",
-      "why": "一人公司卖判断力，这类工具能把判断力产品化。",
-      "region": "en"
+      "id": "2026-11-24-opc-reality-check",
+      "date": "2026-11-24",
+      "title": "1600 万家一人公司，30.8% 零营收：一份给 OPC 的冷水数据",
+      "url": "https://finance.sina.cn/2026-11-24/detail-inizvkmk8982214.d.html",
+      "source": "界面新闻",
+      "author": "界面新闻",
+      "category": "经验",
+      "summary": "截至 2025 年 6 月，全国一人公司存量超 1600 万家、占企业总量 27.4%；36 氪调研显示 30.8% 没有营收，SoloNest 调查仅 20% 跑通商业闭环。65% 的 OPC 每月 AI 支出超 500 元，60% 把获客与销售列为最大困难，65% 的订单来自老客户和熟人。",
+      "why": "把“一人公司”从情绪拉回数字：先算固定 AI 成本与获客渠道，再决定要不要全职。",
+      "region": "zh",
+      "featured": true
     },
     {
       "id": "2026-11-24-one-person-unicorn",
@@ -220,7 +309,7 @@
       "summary": "作者用 AI 三个月独立重建整套 CMS，认为懂营销的技术创始人可能做出“一人独角兽”。",
       "why": "样本虽小，但把单人加 AI 的产品交付链路讲得很具体。",
       "region": "en",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-11-24-487-mrr",
@@ -235,28 +324,29 @@
       "region": "en"
     },
     {
-      "id": "2026-11-24-checkmyapp",
+      "id": "2026-11-24-agency-154k-failed",
       "date": "2026-11-24",
-      "title": "CheckMyApp：让 agent 自己验收线上应用",
-      "url": "https://checkmyapp.dev/",
-      "source": "Hacker News / CheckMyApp",
-      "author": "CheckMyApp",
-      "category": "工具",
-      "summary": "每次部署后自动走一遍关键用户路径，把通过、失败与截图回传给编码代理。",
-      "why": "一个人管多个 agent 时，多一层自动验收，少一次人工回归。",
-      "region": "en"
+      "title": "Agency 最好一个月收 $45.9K，6 个月后关门：三个死因",
+      "url": "https://www.indiehackers.com/post/my-agency-billed-154k-then-failed-my-new-site-went-from-1-to-63-google-clicks-in-2-weeks-roast-the-offer-i-built-from-its-ashes-jy0S4IOROTLupjQBN6f8",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "一家小 agency 最好一个月做到 $45,900，6 个月后倒闭；作者重建单页后，两周把 Google 点击从 1 做到 63，但 4 周只拿到 1 次报价点击。收入峰值不等于生意成立，线索到报价之间还有一条断点。",
+      "why": "给接单型一人公司提个醒：先看报价点击和成交，不要只看流量和月流水。"
     },
     {
-      "id": "2026-11-24-hub-agents",
+      "id": "2026-11-24-wechat-pay-agreement",
       "date": "2026-11-24",
-      "title": "Hub：把 100 个编码代理会话当 5 个来管",
-      "url": "https://www.producthunt.com/products/hub-20",
-      "source": "Product Hunt",
-      "author": "Hub",
-      "category": "工具",
-      "summary": "把 100 个 Claude Code 或 Codex 会话像 5 个一样管理，适合重度使用编码代理的人。",
-      "why": "代理越多，调度与上下文管理越像一门新技能。",
-      "region": "en"
+      "title": "微信支付修订协议：个人码收经营款要补证件，12 月 24 日生效",
+      "url": "https://posts.tenpay.com/posts/584015036acde70500268f0c63a26442.html",
+      "source": "微信支付",
+      "author": "财付通",
+      "category": "政策",
+      "summary": "财付通 11 月 24 日修订《微信支付用户服务协议》，12 月 24 日生效：个人卖家、个人经营者、个体户经营人做经营性收款，要补充经营证件；单笔 1 万元以上、30 天累计 5 万元以上、余额连续 10 天超 5000 元等情形要核验身份。",
+      "why": "用个人收款码收软件费、咨询费的独立开发者，年底前要决定补资料还是换商户号。",
+      "region": "zh",
+      "featured": false
     },
     {
       "id": "2026-11-23-ai-games",
@@ -272,28 +362,53 @@
       "featured": true
     },
     {
-      "id": "2026-11-23-hermit-crm",
+      "id": "2026-11-23-831-signups-4160-mrr",
       "date": "2026-11-23",
-      "title": "Hermit CRM：给一人公司的开源本地 CRM",
-      "url": "https://hermitcrm.io/",
-      "source": "Hacker News / Hermit",
-      "author": "Hermit",
-      "category": "工具",
-      "summary": "客户、联系人与沟通记录以纯文件存放在电脑上，面向一人公司的开源 CRM。",
-      "why": "不想被 SaaS 订阅和云端锁定，又需要客户管道时很合适。",
-      "region": "en"
+      "title": "831 个注册、58 个付费、$4,160 MRR：第二个平台没接住",
+      "url": "https://www.indiehackers.com/post/831-signups-58-paying-4-160-mrr-we-ran-the-cut-we-promised-and-the-second-platform-story-didnt-survive-it-pwkmA2P52udXMBf5Yf0S",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "案例",
+      "region": "en",
+      "summary": "一款小产品先后在两个平台上线，累计 831 个注册、58 个付费，做到 $4,160 MRR；但第二个平台的故事没有通过数据检验，邮件驱动的付费率只有自然流量的一半。",
+      "why": "多平台分发不是复制粘贴，先看每个渠道的付费率，再决定要不要加码。"
     },
     {
-      "id": "2026-11-22-pieter-block",
-      "date": "2026-11-22",
-      "title": "Pieter Levels 新工具：一键屏蔽 3,728 个 AI 回复账号",
-      "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+      "id": "2026-11-23-chatgpt-4x-google",
+      "date": "2026-11-23",
+      "title": "ChatGPT 带来的用户是 Google 的 4 倍：528 次开始、314 次完成、3 个付费",
+      "url": "https://www.indiehackers.com/post/chatgpt-sends-my-side-project-4x-more-users-than-google-and-i-didnt-plan-for-it-0BvPXQLNnR9F7g3F92Xy",
       "source": "Indie Hackers",
-      "author": "Pieter Levels",
-      "category": "博主",
-      "summary": "Pieter Levels 上线工具，一键屏蔽 3,728 个在 X 上发 AI 回复的账号，并公开名单。",
-      "why": "看顶级独立开发者如何把个人痛点当天变成产品。",
-      "region": "en"
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "一个 side project 的流量里，ChatGPT 带来 37 个用户，Google 只有 9 个；528 次开始使用、314 次完成、3 人付费。作者没为 AI 搜索做优化，用户却从聊天机器人里来了。",
+      "why": "一人公司没有预算投广告，值得重新检查产品在 AI 回答里的可发现性。"
+    },
+    {
+      "id": "2026-11-23-9-b2b-tools-zero",
+      "date": "2026-11-23",
+      "title": "3 周做 9 个 B2B 小工具，170 次运行，收入 0",
+      "url": "https://www.indiehackers.com/post/9-b2b-data-tools-shipped-in-3-weeks-0-revenue-so-far-what-id-do-differently-s5JnxKKxVjqD9JFjBDJ7",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "作者 3 周上线 9 个 B2B 数据小工具，累计约 170 次运行，收入仍是 0。复盘结论不是做得不够多，而是每个工具都停在“能用”，没有解决一个必须付钱的问题。",
+      "why": "一人公司最容易陷入“多做一个工具”的忙碌，这篇是失败复盘样本。"
+    },
+    {
+      "id": "2026-11-22-100-paying-clean-offices",
+      "date": "2026-11-22",
+      "title": "100 个付费客户、月入约 3 千欧，他还在做清洁工",
+      "url": "https://www.indiehackers.com/post/100-paying-customers-a-few-months-at-3k-and-i-still-clean-offices-OfqAbladE1bswpPuYa3E",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "案例",
+      "region": "en",
+      "featured": true,
+      "summary": "一个人做产品几个月，积累 100+ 付费客户、700+ 次付费构建，月收入约 3,000 欧元；他仍保留清洁工工作，用稳定现金流换试错时间。",
+      "why": "一人公司最现实的安全垫：先让副业赚到钱，再决定要不要辞职。"
     },
     {
       "id": "2026-11-22-solo-goldrush",
@@ -306,6 +421,54 @@
       "summary": "Novo 创始人称 AI 将引爆单人创业者增长，Anthropic 推进 IPO 或加速这一趋势。",
       "why": "海外金融基础设施开始专门服务一人公司，信号意义大于新闻本身。",
       "region": "zh"
+    },
+    {
+      "id": "2026-11-22-trial-7-to-3-days",
+      "date": "2026-11-22",
+      "title": "把免费试用从 7 天砍到 3 天：8 个付费客户都在前 3 天付款",
+      "url": "https://www.indiehackers.com/post/we-cut-our-free-trial-from-7-days-to-3-every-paying-customer-had-paid-within-3-days-anyway-XTUjvKXVEbzA5OPXcQWH",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "作者把试用期从 7 天改成 3 天后，8 位付费客户全部在第 0–3 天完成付款；此前的 7 天组 20 个团队没有一单。试用越长不等于转化越好，关键是把决策窗口压短。",
+      "why": "定价和试用期是可以直接做 A/B 的两个杠杆，别凭感觉设 7 天或 14 天。"
+    },
+    {
+      "id": "2026-11-22-lifetime-deal-pricing",
+      "date": "2026-11-22",
+      "title": "70% 终身折扣卖了 40 单：15 个用户在折扣结束后流失",
+      "url": "https://www.indiehackers.com/post/one-week-into-a-70-off-lifetime-deal-5-pricing-lessons-for-bootstrapped-saas-4TvLlz18cUpFEV55ODkF",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "经验",
+      "region": "en",
+      "summary": "作者用 70% 折扣卖终身方案，把底价定在 $3/月×36 个月=$108；40 个折扣用户里有 15 个在折扣结束后流失。终身交易能换现金，但会把未来收入一次性折现。",
+      "why": "黑五前后最容易冲动上终身 deal，先用这篇算清 LTV 和流失。"
+    },
+    {
+      "id": "2026-11-21-grooming-honest-numbers",
+      "date": "2026-11-21",
+      "title": "一个人做内容站 7 周：每周 55 个真人访问，131 条外链，卡在收录",
+      "url": "https://www.indiehackers.com/post/seven-weeks-in-the-honest-numbers-behind-a-one-person-grooming-site-cZFhc7nh0GAbqMe7UEQ0",
+      "source": "Indie Hackers",
+      "author": "Louis Carter",
+      "category": "经验",
+      "region": "en",
+      "summary": "一个人做男士渐变发型指南站，7 周后真实流量约每周 55 次访问；一次 869 次访问里 829 次来自同一数据中心的爬虫。131 条外链大多还没被收录，他的结论是：内容不是瓶颈，收录才是。",
+      "why": "给所有靠 SEO 起步的一人内容站一个冷水样本：先把爬虫和真人分开，再谈增长。"
+    },
+    {
+      "id": "2026-11-21-mac-app-237-installs",
+      "date": "2026-11-21",
+      "title": "3 周卖出 83 份：一个 Mac 小应用的安装转付费样本",
+      "url": "https://www.indiehackers.com/post/what-3-weeks-of-selling-a-mac-app-taught-me-237-installs-83-customers-no-funding-DdWxg9wc8jk3ENpG09w0",
+      "source": "Indie Hackers",
+      "author": "Indie Hackers 社区",
+      "category": "案例",
+      "region": "en",
+      "summary": "一个人卖 Mac 应用，3 周拿到 237 次安装、83 位付费用户，安装转付费约 35%，没有融资。作者复盘了定价、试用和发布渠道的具体做法。",
+      "why": "小工具不靠融资也能跑出正现金流，关键看安装到付费这一段转化。"
     }
   ],
   "directory": {
