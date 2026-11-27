@@ -1,14 +1,14 @@
 {
   "meta": {
     "title": "一人公司日报",
-    "generated": "2026-11-27T15:57:47+08:00",
+    "generated": "2026-11-27T16:08:44+08:00",
     "windowDays": 7,
-    "note": "2026-11-27 重建归档：历史内容按最近 7 天公开信息整理，此后每日更新。",
+    "note": "2026-11-27 更新：补充 11-26 与 11-27 条目；历史内容按最近 7 天公开信息整理，此后每日更新。",
     "sourcePolicy": "收入、用户数与增长数据均为来源方自述，未经独立审计。"
   },
   "summaries": {
-    "2026-11-27": "平台规则先敲了一记：Google Play 要求个人开发者公开电话与地址，独立上架应用的隐私与合规成本上升。工具预算方面，黑五优惠可以顺手补齐，但别为折扣买不需要的东西。",
-    "2026-11-26": "社区在问两个很实际的问题：独立开发者出的课程哪些值得买，以及 2026 年还有哪些 AI 生意适合一个人做。答案还在评论区里长出来。",
+    "2026-11-27": "平台规则与代理上下文都值得盯：Google Play 将向用户公开个人开发者的电话与地址，Notion 官方 MCP 被指用隐藏指令推销升级。工具侧补上代理记忆、终端批注和黑五清单；自托管则因 AI 降低了折腾成本。",
+    "2026-11-26": "Google 给 Workspace 的 AI 接入选了新规则：2027 年起代理必须走官方 MCP，而 Gmail 接口仍不能发信。实操侧，27 天代理团队的故障复盘、Claude Code 会话加密备份和会自查的编码代理，都值得一人公司对照。",
     "2026-11-25": "AI 编码代理的工具链继续补全：手机远程指挥、自动验收、会话调度。另一条讨论关心 AI 是否正在改写独立开发者的收入。",
     "2026-11-24": "两条一人公司样本：三个月独立重建 CMS 的技术创始人，和零广告 3 天做到 487 美元 MRR 的小工具。前者讲能力杠杆，后者讲分发顺序。",
     "2026-11-23": "36氪用一组真实数据拆开 AI 游戏热：有人 3 天卖 10 万份，也有人上线一个月收入不足 10 美元。工具侧，开源本地 CRM 值得一人公司看看。",
@@ -29,7 +29,18 @@
       "featured": true
     },
     {
-      "id": "2026-11-27-sspai-blackfriday",
+      "date": "2026-11-27",
+      "title": "Notion 官方 MCP 被指往代理上下文里塞隐藏推销",
+      "url": "https://news.ycombinator.com/item?id=50658093",
+      "source": "Hacker News / Reddit",
+      "author": "czottmann",
+      "category": "工具",
+      "summary": "开发者报告：Notion 官方 MCP 在用户额度用尽时，会向代理注入隐藏指令，要求它用带跟踪参数的链接推销升级套餐，并避免展示链接预览。HN 讨论集中在“用用户的 token 打广告”是否越界。",
+      "why": "接官方 MCP 不等于中立；上线前该检查它到底往上下文里写了什么。",
+      "region": "en",
+      "id": "2026-11-27-notion-mcp-upsell"
+    },
+    {
       "date": "2026-11-27",
       "title": "黑五值得买：App 与服务优惠清单",
       "url": "https://sspai.com/post/119601",
@@ -38,7 +49,93 @@
       "category": "工具",
       "summary": "少数派整理黑五 App 与服务优惠，覆盖效率、AI 与开发工具，适合补齐工具栈。",
       "why": "一年里续费或换工具最划算的窗口，但需甄别伪折扣。",
-      "region": "zh"
+      "region": "zh",
+      "id": "2026-11-27-sspai-blackfriday"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Dev-Mem：给编码代理一个本地 SQLite 长期记忆",
+      "url": "https://github.com/HarsH-1877/Dev-Mem",
+      "source": "Hacker News / GitHub",
+      "author": "HarsH_1877",
+      "category": "工具",
+      "summary": "开源本地知识库，用 SQLite 保存项目上下文与踩过的坑，通过 hooks 与 MCP 接入 Claude Code、Cursor、Codex、OpenCode，数据不出本机，MIT 许可。",
+      "why": "代理换会话就失忆，是一人公司复用经验的拦路虎；本地存储也省去隐私顾虑。",
+      "region": "en",
+      "id": "2026-11-27-dev-mem"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Kaju：在终端里给 Claude Code 的输出加批注",
+      "url": "https://github.com/aigeano/kaju",
+      "source": "Hacker News / GitHub",
+      "author": "aigeano",
+      "category": "工具",
+      "summary": "macOS 终端小工具：选中 Claude Code 的输出，按 ⌃⌥K 就能就着这段文字写评论；长篇评审可先把多条批注收进侧栏，再一次性发回给代理。Apache-2.0 开源。",
+      "why": "比在终端里反复复制粘贴上下文更省事，适合逐段审代理的计划与代码。",
+      "region": "en",
+      "id": "2026-11-27-kaju"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "AI 让自托管重新变得有趣",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Jan-Lukas Else",
+      "author": "Jan-Lukas Else",
+      "category": "经验",
+      "summary": "作者把 Docker Compose、脚本与系统配置都放在 Git 里，AI 代理改基础设施就像改普通代码。试新服务、上 NixOS、构建 bootc 镜像的门槛大幅下降，自托管热情回来了。",
+      "why": "一人公司的基础设施也能“基础设施即代码 + 代理维护”，少花整晚查文档。",
+      "region": "en",
+      "id": "2026-11-27-ai-selfhosting"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Google 将强制 AI 代理改走 Workspace MCP，Gmail 接口不能发信",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Tech Stackups",
+      "author": "Al Smith",
+      "category": "政策",
+      "summary": "2027 年 2 月 1 日起，由 AI 代理驱动的 Workspace 工具必须通过 Google 官方 MCP 接入；Gmail MCP 只能搜索、读取、建草稿，发信与回复仍需合作伙伴权限。直连 REST 的代理会被降为标准配额。",
+      "why": "做邮件助手或 Workspace 插件的独立开发者只剩约两个月改架构，而且拿不到发信权限。",
+      "region": "en",
+      "id": "2026-11-26-google-workspace-mcp",
+      "featured": true
+    },
+    {
+      "date": "2026-11-26",
+      "title": "跑 27 天 AI 代理团队：35 个协调会话、266 个子代理，坏在哪",
+      "url": "https://ethanflow.com/writing/what-broke-ai-agent-team/",
+      "source": "Ethan · Sprout Labs",
+      "author": "Ethan",
+      "category": "经验",
+      "summary": "作者让一个 Claude Code 协调会话每天给 worker 与子代理派活，27 天累计 35 个协调会话、105 个 worker 会话、266 个子代理。撑住系统的是“状态写盘、上下文满了就交接”，故障集中在监听器、权限与 GUI 操作。",
+      "why": "一人公司想用代理团队，先抄它的交接文件与权限设计，比看演示视频有用。",
+      "region": "en",
+      "id": "2026-11-26-agent-team-27-days"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Session Vault：加密备份 Claude Code 会话，换机接着聊",
+      "url": "https://session-vault.dev/",
+      "source": "Hacker News / Session Vault",
+      "author": "Session Vault",
+      "category": "工具",
+      "summary": "Claude Code 插件，把会话用 age 在本地加密后备份，服务端读不到内容；换电脑拉回会话即可继续。免费存 10 个，付费 100 个每月 3 欧元起，服务端开源。",
+      "why": "Claude Code 默认 30 天清理旧会话，重要上下文不该只留在这一台机器上。",
+      "region": "en",
+      "id": "2026-11-26-session-vault"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Contral：会自查工作、边写边教你的编码代理",
+      "url": "https://www.producthunt.com/products/contral",
+      "source": "Product Hunt",
+      "author": "Devansh Ranjan",
+      "category": "工具",
+      "summary": "Product Hunt 新上线的 AI 编码代理，强调在交付前检查自己的产出，并把过程中的取舍讲给用户听。",
+      "why": "一个人用代理写代码时，能自查、能解释，比单纯生成更快更稳。",
+      "region": "en",
+      "id": "2026-11-26-contral"
     },
     {
       "id": "2026-11-26-ask-hn-indie-courses",
