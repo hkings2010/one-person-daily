@@ -1,21 +1,35 @@
 {
   "meta": {
     "title": "一人公司日报",
-    "generated": "2026-11-27T16:48:13+08:00",
+    "generated": "2026-11-28T10:09:30+08:00",
     "windowDays": 7,
-    "note": "2026-11-27 四次更新：在 33 条基础上补入 4 条中文一手内容——一人公司冷水数据、微信支付新协议、两人拉伸 App 流水、欧盟包裹税成本；Google Play 条目补上申报与公开时间表。",
+    "note": "2026-11-28 更新：新增 6 条——Outrank 两人团队自述累计净流水 €401 万、Open Contexts 下载破千、p2p.gifts 300+ 访客零转化、ScreenParcel 128 次访问零收入复盘、三位创始人自建服务器每月省 $223、江苏税务“一人公司”一户一档服务；近 7 天共 41 条。",
     "sourcePolicy": "收入、用户数与增长数据均为来源方自述，未经独立审计。"
   },
   "summaries": {
-    "2026-11-27": "政策侧三条：Google Play 要求开发者在 2027 年 2 月前申报交易者身份，3 月起全球公开电话与地址；四川把个体户“个转企”与食品经营许可变更并成“一件事”，12 月 31 日全省推行；欧盟取消 150 欧免税并加收 3 欧/件，跨境单件成本多出约 5 欧。经营侧，1Password 的入侵提醒一人公司：一个 GitHub 账号就可能牵出全部家当；另外三条分别讲免费层样本量、邮件工具额度和输入隐私。",
-    "2026-11-26": "四条一人公司样本：Alarmy 一个人把闹钟做到年入 3400 万美元，BoltAI 从周末工具长到月入 1.5 万美元，BatchSet 拆掉注册墙才拿到第一笔 19.99 美元，21 岁学生做的 Makelead 已到 3k MRR。定价侧，MyFeedIn 和德国一人 IT 顾问都公开了真实价格。共同点不是 AI，而是先找到愿意付钱的人。",
+    "2026-11-27": "政策侧三条：Google Play 要求开发者在 2027 年 2 月前申报交易者身份，3 月起全球公开电话与地址；四川把个体户“个转企”与食品经营许可变更并成“一件事”，12 月 31 日全省推行；欧盟取消 150 欧免税并加收 3 欧/件，跨境单件成本多出约 5 欧。案例侧两条：Outrank 两人团队自述累计净额 401 万欧元、4,689 个站点接入 Search Console；独立开发者 2 个月做出免费 Mac 窗口切换器 Open Contexts，下载破千。经营侧还有 1Password 入侵提醒，以及免费层样本量、邮件工具额度、输入隐私三条实操。",
+    "2026-11-26": "五条一人公司样本：Alarmy 一个人把闹钟做到年入 3400 万美元，BoltAI 从周末工具长到月入 1.5 万美元，BatchSet 拆掉注册墙才拿到第一笔 19.99 美元，21 岁学生做的 Makelead 已到 3k MRR；p2p.gifts 一场 Instagram 网红投放带来 300+ 访客，却 0 次开始送礼。定价与转化侧，MyFeedIn 和德国一人 IT 顾问公开真实价格；ScreenParcel 公开 128 次访问、14 次打开编辑器、0 收入，并列出 4 个转化漏洞。",
     "2026-11-25": "这天两条政策最硬：12 月 1 日起，公司找自然人做设计、咨询要代扣增值税；9 部门“春雨润苗”明确平台不得把涉税义务转嫁给小微商家。经营侧有四个冷水样本：98% 流量是机器人、19 年 Reddit 账号被封、退款规则该写在价格旁，以及 BlitzReels 靠老客户升级把 MRR 从 €911 拉到 €1,865；再加一个两人的拉伸 App，月流水 70–80 万美元。",
     "2026-11-24": "五条一人公司样本。最值得先看的是这份冷水数据：全国一人公司超 1600 万家，30.8% 零营收，仅 20% 跑通闭环，65% 每月 AI 支出超 500 元。另有“一个人做出独角兽”的边界、零广告 3 天做到 487 美元 MRR 的分发过程、agency 最好月收 45.9 万美元却 6 个月关门的复盘；政策侧提醒微信支付 12 月 24 日新协议，个人码收经营款要补证件。",
-    "2026-11-23": "这天的样本都在拆“增长”：831 个注册只转出 58 个付费，ChatGPT 带来的用户是 Google 的 4 倍，3 周做 9 个 B2B 工具仍是 0 收入。另一条是 AI 游戏的真实分化：有人 3 天卖 10 万份，也有人月入不足 10 美元。",
+    "2026-11-23": "政策侧，江苏税务为“一人公司”建立“一户一档”动态风险台账，按技术开发、内容创作、跨境电商等赛道推送风险清单，并设 OPC 服务专窗。增长样本依旧很冷：831 个注册只转出 58 个付费，ChatGPT 带来的用户是 Google 的 4 倍，3 周做 9 个 B2B 工具仍是 0 收入。AI 游戏则一边 3 天卖 10 万份，一边月入不足 10 美元。",
+    "2026-11-28": "自建服务器的三笔账：Ilias Ism 把 35 个后台任务和 15 个定时任务搬回现有服务器，每月省下 223 美元的 Trigger 订阅；Danny Postma 为上线速度用自租服务器，但高流量工具仍留在 Vercel 和 Render。Simon Høiberg 的三人公司把客服模型跑在自有硬件上，已学习 116 条公司规则，规则变化时需要重新训练。",
     "2026-11-22": "两条一人公司样本：一个人做产品做到 100+ 付费、月入约 3 千欧，仍保留清洁工工作；金融科技公司开始公开押注“单人创业者”群体。两条实操：试用期从 7 天砍到 3 天，以及 70% 终身折扣带来的 15 个流失用户。",
     "2026-11-21": "两条英文一手复盘：一个人做内容站 7 周，真实流量只有每周 55 次，卡在收录；一个人卖 Mac 应用 3 周，237 次安装转出 83 位付费。共同点：先看真实转化，再谈增长。"
   },
   "items": [
+    {
+      "id": "2026-11-28-self-hosting-223",
+      "date": "2026-11-28",
+      "title": "把 35 个后台任务搬回自己的服务器：每月省下 223 美元订阅",
+      "url": "https://www.indiehackers.com/post/trends/three-founders-are-swapping-hosted-tools-for-their-own-servers-1FNsWUqmJo0CamQ4oEc3",
+      "source": "Indie Hackers",
+      "author": "Diego Salazar",
+      "category": "经验",
+      "summary": "Ilias Ism 把 35 个后台任务和 15 个定时任务从 Trigger 迁到现有服务器，省掉每月 223 美元的订阅费（服务器本来就在付费）；Danny Postma 为上线速度用自租服务器，但高流量工具仍留在 Vercel 和 Render。Simon Høiberg 的三人公司把客服模型跑在自有硬件上，已学习 116 条公司规则，规则变化时需要重新训练。以上均为创始人自述，未审计。",
+      "why": "固定订阅是纯现金流的漏水点，先把任务量小的后台作业迁走，再保留高流量业务的托管。",
+      "region": "en",
+      "featured": true
+    },
     {
       "id": "2026-11-27-google-play-privacy",
       "date": "2026-11-27",
@@ -53,6 +67,30 @@
       "why": "做欧洲市场的独立站和平台卖家，要把税费、主体注册费和广告 CPI 放在一张表里重算。",
       "region": "zh",
       "featured": false
+    },
+    {
+      "id": "2026-11-27-outrank-4m",
+      "date": "2026-11-27",
+      "title": "两人 AI SEO 工具 Outrank：自述累计净流水 €401 万，4,689 个站点接入",
+      "url": "https://www.indiehackers.com/post/numbers/an-ai-seo-tool-has-made-4m-one-cofounder-had-failed-at-saas-twice-cj7TLKYdsCzbHp2zCIF3",
+      "source": "Indie Hackers",
+      "author": "Lukas Brenner",
+      "category": "案例",
+      "summary": "Outrank 联合创始人 Eugene Zolotarenko 11 月 27 日在 X 晒出 €4.01M 的累计净流水截图，没有日期，也无法独立核验；官方 about 页显示截至 9 月 25 日有 4,689 个客户网站接入 Google Search Console。产品做关键词研究、SEO 文章生成与发布、外链建设，Organic Growth 套餐 $99/月；两位创始人中，Zolotarenko 此前两次 SaaS 创业都倒在了早期。",
+      "why": "两人团队把 SEO 内容生产做成订阅工具的路径可对照；€401 万只能当自述，别拿它做收入基准。",
+      "region": "en"
+    },
+    {
+      "id": "2026-11-27-open-contexts",
+      "date": "2026-11-27",
+      "title": "免费开源 Mac 工具 Open Contexts：2 个月下载破千、GitHub 72 星",
+      "url": "https://sspai.com/post/119646",
+      "source": "少数派",
+      "author": "别处理",
+      "category": "案例",
+      "summary": "独立开发者“别处理”常用的窗口切换器 Contexts 停更、升级 macOS 后失效，于是自己写了免费开源的替代品 Open Contexts；持续更新 2 个月，作者自述累计下载破千、GitHub 72 个 Star。0.6.0 一次补上呼声最高的 4 个功能：分组内切换、按应用名/窗口标题/拼音搜索、跨桌面选窗、快捷键唤出侧边栏。",
+      "why": "停更的商业工具就是独立开发者的机会；先做一个免费替代品，再用用户呼声排更新优先级。",
+      "region": "zh"
     },
     {
       "date": "2026-11-27",
@@ -152,6 +190,18 @@
       "why": "年轻一人公司不一定要做通用工具，垂直 B2B 工作流更容易收到钱。"
     },
     {
+      "id": "2026-11-26-p2p-gifts-zero",
+      "date": "2026-11-26",
+      "title": "24 小时 300+ 访客、0 次开始送礼：一场 Instagram 网红投放",
+      "url": "https://www.indiehackers.com/post/300-visitors-in-24-hours-but-zero-conversions-what-went-wrong-yf4UjXpmlAdxnnYaPpfD",
+      "source": "Indie Hackers",
+      "author": "Alleo",
+      "category": "案例",
+      "summary": "免费开源加密礼物工具 p2p.gifts 通过 Instagram 网红 Reel + Story 投放，24 小时带来 300+ 访客，却没有一次 start-gifting、create-wallet 等后续事件。作者用 Umami 看到 98% 访客是 Chrome、全部停留 0 秒、来源是 m.facebook.com；而他自己实测真实的 Instagram 来源应显示 l.instagram.com、且停留时间不为 0。帖子未给出最终结论，作者仍在排查机器人流量与受众错配，数据为自述。",
+      "why": "投放后先验证流量真伪，再改落地页；来源域名和停留时长是两个最便宜的排查点。",
+      "region": "en"
+    },
+    {
       "date": "2026-11-26",
       "title": "把 SaaS 定价从 €10 终身改成 €19/月，他公开了完整价格史",
       "url": "https://www.ezindie.com/weekly/issue-167",
@@ -174,6 +224,18 @@
       "why": "一人服务公司的定价可以公开透明，也可以靠报价结构过滤不合适的客户。",
       "region": "en",
       "id": "2026-11-26-it-consultant-rates"
+    },
+    {
+      "id": "2026-11-26-screenparcel-128",
+      "date": "2026-11-26",
+      "title": "128 次访问、14 次打开编辑器、0 收入：4 个转化漏洞和修法",
+      "url": "https://www.indiehackers.com/post/128-visits-14-editor-opens-0-4-conversion-leaks-we-found-fixed-in-our-browser-only-app-store-screenshot-tool-uwEONEZjh931CZYjQw4s",
+      "source": "Indie Hackers",
+      "author": "ScreenParcel",
+      "category": "经验",
+      "summary": "浏览器端 App Store 截图工具 ScreenParcel 上线 3 周，剔除机器人后只有 128 次访问、14 次打开编辑器、1 次 ZIP 导出和 0 收入。作者找到 4 个漏洞：导出按钮在首屏之外、缺少前三张截图并排预览、把简单缩放当付费点而开发者先要删透明通道、$9 单次密钥不过期反而比 $19 30 天通行证更划算。修法是固定顶部导出、增加 3-up 预览、免费提供 1206×2622 透明通道工具，并把 $9 包改为 14 天编辑窗口、新增 $39 早鸟终身（原价 $59）。数据为作者自述。",
+      "why": "小样本也能做漏斗体检；先看自己的价格表有没有“便宜档更好”的自相残杀。",
+      "region": "en"
     },
     {
       "id": "2026-11-26-ask-hn-openrouter-solo",
@@ -347,6 +409,18 @@
       "why": "用个人收款码收软件费、咨询费的独立开发者，年底前要决定补资料还是换商户号。",
       "region": "zh",
       "featured": false
+    },
+    {
+      "id": "2026-11-23-jiangsu-opc-tax",
+      "date": "2026-11-23",
+      "title": "江苏税务为“一人公司”建“一户一档”：按赛道推风险清单、专窗集成办理",
+      "url": "https://www.chinatax.gov.cn/chinatax/n810219/n810739/c5253740/content.html",
+      "source": "国家税务总局",
+      "author": "国家税务总局江苏省税务局",
+      "category": "政策",
+      "summary": "江苏省税务局为 OPC（一人公司）建立“一户一档”动态风险台账，按技术开发、内容创作、跨境电商等赛道分类推送高频风险清单；多部门联合设 OPC 社区服务专窗，集成办理市场准入、税务登记、发票领用。文中点名的高频问题包括 AI 算力订阅与模型采购的归集口径、用个人微信/支付宝收业务款、经营所得与劳务报酬的收入性质错报，并对非主观故意的轻微失信提供信用修复辅导。",
+      "why": "一人公司没有专职财务，最容易在公私账、成本归集和收入性质上出错；这套做法可直接改写成自己的年度自查清单。",
+      "region": "zh"
     },
     {
       "id": "2026-11-23-ai-games",
